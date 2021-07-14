@@ -3,4 +3,5 @@
 > API used <a id="raw-url" href="https://meme-api.herokuapp.com/gimme">Click Here</a> 
 # Features
 - Share functionality( Share the meme using any social media app )🚀
-- Every time a new meme
+- Every time when we click at next we get a new meme🆕
+
